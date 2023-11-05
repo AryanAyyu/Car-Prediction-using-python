@@ -12,16 +12,16 @@ Our project is based on prediction system that predict the Price of the Used Car
 VS Code
 
 # software can be used:-
-pycharm
-anaconda
+1. pycharm
+2. anaconda
 
 # Requirements:-
 
-numpy
-flask
-pandas
-pickle
-sklearn
+1. numpy
+2. flask
+3. pandas
+4. pickle
+5. sklearn
 
 # Team members:-
 1. Aryan Srivastava
