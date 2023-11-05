@@ -1,5 +1,5 @@
 # Car-Prediction-using-python
-Car Price Pridiction usinf Python
+Car Price Pridiction using Python
 
 # AIM:-
 Our project is based on prediction system that predict the Price of the Used Cars
