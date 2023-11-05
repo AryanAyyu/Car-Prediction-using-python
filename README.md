@@ -24,8 +24,8 @@ pickle
 sklearn
 
 # Team members:-
-Aryan Srivastava
-Aarushi Daksh
-Pihu Prakash
+1. Aryan Srivastava
+2. Aarushi Daksh
+3. Pihu Prakash
 
 
